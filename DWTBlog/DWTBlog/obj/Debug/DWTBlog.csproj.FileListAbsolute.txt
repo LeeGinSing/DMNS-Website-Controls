@@ -9,3 +9,9 @@ G:\Websites\DMNS Website\DWTBlog\DWTBlog\bin\umbraco.macroRenderings.dll
 G:\Websites\DMNS Website\DWTBlog\DWTBlog\obj\Debug\ResolveAssemblyReference.cache
 G:\Websites\DMNS Website\DWTBlog\DWTBlog\obj\Debug\DWTBlog.dll
 G:\Websites\DMNS Website\DWTBlog\DWTBlog\obj\Debug\DWTBlog.pdb
+G:\Websites\DMNS Website Controls\DWTBlog\DWTBlog\bin\DWTBlog.dll
+G:\Websites\DMNS Website Controls\DWTBlog\DWTBlog\bin\DWTBlog.pdb
+G:\Websites\DMNS Website Controls\DWTBlog\DWTBlog\bin\uComponents.dll
+G:\Websites\DMNS Website Controls\DWTBlog\DWTBlog\obj\Debug\ResolveAssemblyReference.cache
+G:\Websites\DMNS Website Controls\DWTBlog\DWTBlog\obj\Debug\DWTBlog.dll
+G:\Websites\DMNS Website Controls\DWTBlog\DWTBlog\obj\Debug\DWTBlog.pdb
